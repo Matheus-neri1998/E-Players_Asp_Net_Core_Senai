@@ -30,6 +30,13 @@
                     <li><a href="#horarios" title="Ir até a sessão de horários das partidas">HORÁRIOS</a></li>
                     <li><a href="#resultados" title="Ir até a sessão de resultados das partidas">RESULTADOS</a></li>
                     <li><a href="#noticias" title="Ir até a sessão de notícias">NOTÍCIAS</a></li>
+                    @if(ViewBag.UserName != null)
+                    {   
+                        <li style="color: #d5379b;">Olá @ViewBag.UserName !</li> // Mostrar o nome de usuário
+                        <li><a asp-controller="Logout" asp-action="Index" title="Entrar">SAIR</a></li>
+                    }else{
+                        <li><a asp-controller="Login" asp-action="Index" title="Sair">ENTRAR</a></li>
+                    }
                     <li><a href="#" title="buscar conteudo no site"><i class="fas fa-search"></i></a></li>
                 </ul>
             </nav>
@@ -76,7 +83,7 @@
                 <h6>LIGA WCG</h6>
             </div>
         </div>
-        <p>© Copyrigth 2077 - Todos os direitos reservados ao sena-code</p>
+        <p>© Copyrigth 2021 - Todos os direitos reservados ao sena-code</p>
     </footer> 
 
 

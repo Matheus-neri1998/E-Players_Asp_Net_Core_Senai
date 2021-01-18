@@ -89,5 +89,7 @@ namespace E_Players_Asp_Net_Core.Controllers
 
 
         }
-    }
+
+       
+    } // fim de Equipe Controller
 }
