@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core\\E-Players_Asp_Net_Core.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core_Senai\\E-Players_Asp_Net_Core.csproj",
       "projectName": "E-Players_Asp_Net_Core",
-      "projectPath": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core\\E-Players_Asp_Net_Core.csproj",
+      "projectPath": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core_Senai\\E-Players_Asp_Net_Core.csproj",
       "packagesPath": "C:\\Users\\Matheus Neri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Neri\\OneDrive\\Área de Trabalho\\E-Players_Asp_Net_Core_Senai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus Neri\\AppData\\Roaming\\NuGet\\NuGet.Config"
